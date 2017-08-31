@@ -51,3 +51,11 @@ Use simple syntax for loading external scripts (the type attribute is not necess
 
 8. make Favicon.ico  
 [FavIcon from Pics](http://favicon.htmlkit.com/favicon/)
+
+get the favicon, and put it in the root.
+
+```如果您需要将Favicon.ico放到其他目录下，或者希望让不同的网页显示不同的Favicon，那就需要在网页Html文件中做设定了，具体设置也很简单，在Html源代码中的<head>部分加入如下的代码：
+
+<link rel="icon" href="/slyar/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/slyar/favicon.ico" type="image/x-icon">
+```
