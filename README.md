@@ -50,4 +50,4 @@ Use simple syntax for loading external scripts (the type attribute is not necess
 ```
 
 8. make Favicon.ico  
-[http://favicon.htmlkit.com/favicon/](FavIcon from Pics)
+[FavIcon from Pics](http://favicon.htmlkit.com/favicon/)
