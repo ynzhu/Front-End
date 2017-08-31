@@ -6,14 +6,15 @@ Just try
  ```
  The default character encoding in HTML5 is UTF-8.(So, usually omit the second declaration.)
  ```
-<!DOCTYPE html>  
-<html lang="en-US">  
+ ```
+<!DOCTYPE html>  
+<html lang="en-US">  
 <head> 
    <meta charset="UTF-8"> 
    <title>HTML5 Syntax and Coding Style</title>  
 </head>  
- 
-2. New HTML5 Elements  
+ ```
+2. New HTML5 Elements 
 The most interesting new HTML5 elements are:   
 
 New semantic elements like <header>, <footer>, <article>, and <section>.  
