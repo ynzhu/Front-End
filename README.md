@@ -24,4 +24,27 @@ New multimedia elements: <audio> and <video>.
    
 3. jsut use lower case for elements and attributes! 
    
-4. 
+4. Viewport for all devices
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+5. Style Sheets
+Use simple syntax for linking to style sheets (the type attribute is not necessary):
+```
+<link rel="stylesheet" href="styles.css">
+```
+Only use quotes around values if the value contains spaces
+
+6. Loading JavaScript
+Use simple syntax for loading external scripts (the type attribute is not necessary):
+```<script src="myscript.js">
+```
+
+7. 统计代码
+```
+正确的cnzz统计代码：
+
+<script type="text/javascript" src='http://s76.cnzz.com/stat.php?id=1033899&amp;web_id=1033899' language='JavaScript' charset='gb2312'></script>
+正确的雅虎统计代码：
+
+<script type="text/javascript" src="http://js.tongji.cn.yahoo.com/674708/ystat.js"></script><noscript><a href="http://tongji.cn.yahoo.com"><img alt="" src="http://img.tongji.cn.yahoo.com/674708/ystat.gif"/></a></noscript>
+```
