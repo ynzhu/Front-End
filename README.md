@@ -49,5 +49,5 @@ Use simple syntax for loading external scripts (the type attribute is not necess
 <script type="text/javascript" src="http://js.tongji.cn.yahoo.com/674708/ystat.js"></script><noscript><a href="http://tongji.cn.yahoo.com"><img alt="" src="http://img.tongji.cn.yahoo.com/674708/ystat.gif"/></a></noscript>
 ```
 
-8. make Favicon.ico
-[http://favicon.htmlkit.com/favicon/](http://favicon.htmlkit.com/favicon/)
+8. make Favicon.ico  
+[http://favicon.htmlkit.com/favicon/](FavIcon from Pics)
