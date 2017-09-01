@@ -102,4 +102,14 @@ show a video in HTML, use the <video> element:
  ```
  The autoplay attribute does not work in mobile devices like iPad and iPhone.
  
+ 11. Playing a YouTube Video in HTML
  
+To play your video on a web page, do the following:
+```
+Upload the video to YouTube
+Take a note of the video id
+Define an <iframe> element in your web page
+Let the src attribute point to the video URL
+Use the width and height attributes to specify the dimension of the player
+Add any other parameters to the URL (see below)
+```
