@@ -120,6 +120,7 @@ src="https://www.youtube.com/embed/XGSy3_Czz8k">
 ```
 
 12. add icon
+from font awesome:
 ```
 <!DOCTYPE html>
 <html>
@@ -142,6 +143,22 @@ src="https://www.youtube.com/embed/XGSy3_Czz8k">
 <i class="fa fa-cloud" style="font-size:36px;"></i>
 <i class="fa fa-cloud" style="font-size:48px;color:red;"></i>
 <i class="fa fa-cloud" style="font-size:60px;color:lightblue;"></i>
+
+</body>
+</html>
+```
+from Google:
+```
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+
+<i class="material-icons">cloud</i>
+<i class="material-icons">favorite</i>
+<i class="material-icons">attachment</i>
+<i class="material-icons">computer</i>
+<i class="material-icons">traffic</i>
 
 </body>
 </html>
