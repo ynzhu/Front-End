@@ -91,13 +91,15 @@ Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 </html>
 ```
 
-10. show a video
-show a video in HTML, use the <video> element:  
+10. show a video（mp4 mostly)
+show a video in HTML, use the <video> element: 
  ```
- <video width="320" height="240" autoplay>
+ <video width="320" height="240" controls, autoplay>
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
  ```
+ The autoplay attribute does not work in mobile devices like iPad and iPhone.
+ 
  
